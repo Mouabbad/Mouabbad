@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mouabbad
-- 👀 I’m interested in  AI, web development, and digital marketing ,also development the applicatn Mean stack
+- 👀 I’m interested in AI, web development, and building applications with the MEAN stack
 - 🌱 I’m currently learning  NLP, JavaScript (advanced) ,angular, and Symfony for backend development
 - 💞️ I’m looking to collaborate onon AI tools, sentiment analysis projects, or web apps for content creators
 - 📫 How to reach me ayamouabbadaya@gmail.com ,or @Mouabbad 
